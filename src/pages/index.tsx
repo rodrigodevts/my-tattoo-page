@@ -54,7 +54,8 @@ export default function Home() {
               style={{
                 width: '100vw',
                 height: '100vh',
-                padding: 30
+                padding: 30,
+                zIndex: 110,
               }}
               onLoad={onLoad}
             />
