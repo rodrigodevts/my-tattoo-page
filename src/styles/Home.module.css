@@ -60,7 +60,7 @@
 .center::before,
 .center::after {
   content: '';
-  left: 50%;
+  left: 60%;
   position: absolute;
   filter: blur(45px);
   transform: translateZ(0);
@@ -81,8 +81,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 75px;
-  height: 75px;
+  width: 375px;
+  height: 375px;
   padding: 25px 10px;
   margin-left: 16px;
   transform: translateZ(0);
